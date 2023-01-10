@@ -1,0 +1,8 @@
+{
+    "azureFunctions.javaBuildTool": "maven",
+    "azureFunctions.deploySubpath": "target/azure-functions/blobtrigger-demo-20230110115434993",
+    "azureFunctions.projectLanguage": "Java",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "package (functions)"
+}
